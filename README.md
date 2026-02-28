@@ -8,7 +8,7 @@ This repository contains hands-on projects, notes, and automation scripts relate
 ⚙ CI/CD Pipelines with GitHub Actions / Jenkins
 
 🐳 Docker & Containerization
-
+        
 ☸️ Kubernetes on AWS (EKS)
 
 🔐 IAM, Security Groups, and best practices
