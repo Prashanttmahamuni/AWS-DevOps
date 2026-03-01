@@ -3,7 +3,7 @@ This repository contains hands-on projects, notes, and automation scripts relate
 📁 Topics Covered:      
 🚀 EC2 Instance Setup and Web Server Configuration (Nginx, Apache)
                                   
-🏗 Infrastructure as Code (IaC) using Terraform / CloudFormation
+🏗 Infrastructure as Code (IaC) using Terraform / CloudFormation  
         
 ⚙ CI/CD Pipelines with GitHub Actions / Jenkins
 
