@@ -16,7 +16,7 @@ This repository contains hands-on projects, notes, and automation scripts relate
 📜 Bash & Shell Scripting for automation      
 
 🧩 Monitoring and Logging using CloudWatch         
-
+     
 💾 S3 Buckets and Data Backup Automation
 
 📡 Load Balancers and Auto Scaling Groups
