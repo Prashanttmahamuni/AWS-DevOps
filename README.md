@@ -5,7 +5,7 @@ This repository contains hands-on projects, notes, and automation scripts relate
                     
 🏗 Infrastructure as Code (IaC) using Terraform / CloudFormation     
         
-⚙ CI/CD Pipelines with GitHub Actions / Jenkins.     
+⚙   CI/CD Pipelines with GitHub Actions / Jenkins.     
       
 🐳 Docker & Containerization   
                                                                                                                
