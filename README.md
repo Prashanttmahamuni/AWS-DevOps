@@ -12,7 +12,7 @@ This repository contains hands-on projects, notes, and automation scripts relate
 ☸️ Kubernetes on AWS (EKS)
   
 🔐 IAM, Security Groups, and best practices        
-     
+       
 📜 Bash & Shell Scripting for automation      
 
 🧩 Monitoring and Logging using CloudWatch         
